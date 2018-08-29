@@ -207,7 +207,7 @@ object Main {
       0
     } else {
       println(
-        """USAGE:
+        """(SaikCaskey)USAGE:
           |  nyandoc <source> <dest-dir>
           |    <source>: dir | jar | zip
           |
